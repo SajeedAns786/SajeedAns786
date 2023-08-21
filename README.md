@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sajeed Ansari</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">"Passionate coder 🚀 | Electronics & Telecommunication Engineer 🎓 | Web Developer 💻 | Problem Solver 💡 | Open Source Enthusiast 🌟"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeedans786&label=Profile%20views&color=0e75b6&style=flat" alt="sajeedans786" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeedans786" alt="sajeedans786" /></a> </p>
 
 - 🔭 I’m currently working on [Landing page of snehalniti enterprise company](https://snehalniti.com/franchise/)
 
@@ -17,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajeed-ansari-656a6021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajeed-ansari-656a6021b/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sajeedans786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sajeedans786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sajeedans786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sajeedans786/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aajeemans333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aajeemans333/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajeed-ansari-656a6021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajeed-ansari-656a6021b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sajeedans786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajeedans786" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sajeedans786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajeedans786" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aajeemans333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aajeemans333/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sajeedans786"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajeedans786" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeedans786&show_icons=true&locale=en&layout=compact" alt="sajeedans786" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeedans786&show_icons=true&locale=en&layout=compact" alt="sajeedans786" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajeedans786&show_icons=true&locale=en" alt="sajeedans786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeedans786&" alt="sajeedans786" /></p>
