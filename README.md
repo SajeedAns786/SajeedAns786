@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sajeedans.333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GngyZCQROrKdU5LYDKC311P8_BPgD1Zz/view?usp=sharing](https://drive.google.com/file/d/1GngyZCQROrKdU5LYDKC311P8_BPgD1Zz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HAspvzQzDGFhwjyvocfHUBcBvPatuj99/view?usp=sharing](https://drive.google.com/file/d/1HAspvzQzDGFhwjyvocfHUBcBvPatuj99/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
