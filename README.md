@@ -13,7 +13,7 @@
 - 🌱 Currently learning **App Development** & deepening expertise in **AI/ML and LLMs**
 - 💬 Ask me about **Core Java, Web Development, DSA, OOPs, Patent Analytics, Data Visualization**
 - 📫 Reach me at: **sajeedans.333@gmail.com** | **sajeedansari2023@gmail.com** | 📞 9172716786
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1HAspvzQzDGFhwjyvocfHUBcBvPatuj99/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://www.linkedin.com/in/sajeed-ansari-656a6021b/)
 - 👨‍💻 All of my projects are available at [https://sajeedans786.github.io/sajeedansari.github.io/](https://sajeedans786.github.io/sajeedansari.github.io/)
 
 ---
@@ -31,7 +31,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔬 **[Qube – IP Management Platform](https://sajeedans786.github.io/sajeedansari.github.io/)** — Patent database search engine with AI-driven search, real-time collaboration, and visual bibliographic insights
+- 🔬 **[Qube – IP Management Platform](https://www.qubeip.com/)** — Patent database search engine with AI-driven search, real-time collaboration, and visual bibliographic insights
 - 📊 **Landscape Analysis** — Market & patent portfolio analysis for emerging technologies (sleep apnea), visualized via Tableau & Power BI
 - 🏨 **[Hotels Booking](https://github.com/sajeedans786)** — Full-stack booking website with agent & admin dashboards (Bootstrap, ReactJS, PHP, MySQL)
 
