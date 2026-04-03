@@ -109,9 +109,6 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeedans786&show_icons=true&locale=en&layout=compact" alt="sajeedans786" />
-</p>
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeedans786&" alt="sajeedans786" />
 </p>
 
