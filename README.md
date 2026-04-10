@@ -9,7 +9,7 @@
 
 - 🏢 Currently working as a **Senior Functional Analyst** at **Researchwire Knowledge Solutions Pvt. Ltd**, Noida
 - 🎓 Pursuing **MBA in Data Science & Business Analytics** at DY Patil, Navi Mumbai (2025 – Present)
-- 🔭 Leading development of **Qube** – a patent database search engine with 20+ crore records, featuring AI-driven keyword suggestions, real-time client collaboration, and smart search functionality
+- 🔭 Leading development – a patent database search engine with 20+ crore records, featuring AI-driven keyword suggestions, real-time client collaboration, and smart search functionality
 - 🌱 Currently learning **App Development** & deepening expertise in **AI/ML and LLMs**
 - 💬 Ask me about **Core Java, Web Development, DSA, OOPs, Patent Analytics, Data Visualization**
 - 📫 Reach me at: **sajeedans.333@gmail.com** | **sajeedansari2023@gmail.com** | 📞 9172716786
@@ -31,7 +31,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔬 **[Qube – IP Management Platform](https://www.qubeip.com/)** — Patent database search engine with AI-driven search, real-time collaboration, and visual bibliographic insights
+- 🔬 Patent database search engine with AI-driven search, real-time collaboration, and visual bibliographic insights
 - 📊 **Landscape Analysis** — Market & patent portfolio analysis for emerging technologies (sleep apnea), visualized via Tableau & Power BI
 - 🏨 **[Hotels Booking](https://github.com/sajeedans786)** — Full-stack booking website with agent & admin dashboards (Bootstrap, ReactJS, PHP, MySQL)
 
